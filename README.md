@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Developer | React & Node.js | Building Scalable Web Applications</h3>
+<h2 align="center">Full Stack Developer | React & Node.js | Building Scalable Web Applications</h2>
 
 ---
 
