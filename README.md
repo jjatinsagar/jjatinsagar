@@ -49,7 +49,7 @@ I’m a Full Stack Developer passionate about shipping production-quality web ap
   <a href="https://www.linkedin.com/in/jatin-sagar-99025922a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jjatinsagar@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=jjatinsagar@gmail.com&tf=cm">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
