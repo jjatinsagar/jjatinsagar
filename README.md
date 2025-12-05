@@ -2,7 +2,7 @@
 
 ---
 
-### 🚀 About Me  
+###  About Me  
 I’m a Full Stack Developer passionate about shipping production-quality web applications with clean architecture, performance-driven code, and real-world functionality.
 
 - Strong foundation in **Frontend Engineering** + **Backend API Development**  
@@ -13,7 +13,7 @@ I’m a Full Stack Developer passionate about shipping production-quality web ap
 
 ---
 
-### 🛠️ Technical Expertise  
+###  Technical Expertise  
 
 #### **Frontend**
 <p align="left">
@@ -32,7 +32,7 @@ I’m a Full Stack Developer passionate about shipping production-quality web ap
 
 ---
 
-### 💡 What I Focus On  
+###  What I Focus On  
 - Scalable architectures & modular code  
 - Reusable components & clean state management  
 - Performance optimization and security best practices  
@@ -41,7 +41,7 @@ I’m a Full Stack Developer passionate about shipping production-quality web ap
 
 ---
 
-### 🔗 Portfolio & Contact  
+###  Portfolio & Contact  
 <p align="center">
   <a href="https://jjatinsagar.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white" />
@@ -55,5 +55,3 @@ I’m a Full Stack Developer passionate about shipping production-quality web ap
 </p>
 
 ---
-
-⭐ *Explore my pinned repositories below — real projects with real features.*
