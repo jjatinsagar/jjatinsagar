@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jatin</h1>
 <h3 align="center">Full Stack Developer | React & Node.js | Building Scalable Web Applications</h3>
 
 ---
